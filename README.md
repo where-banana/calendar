@@ -9,4 +9,5 @@
 3. [Савчук Алексей](https://github.com/alexey-savchuk)
 4. [Ферапонтов Михаил](https://github.com/MikhailFerapontow)
 
+[Презентация проекта](https://github.com/where-banana/calendar/blob/main/presentation.pdf)\
 [Серверная часть проекта](https://github.com/where-banana/calendar-backend-java)

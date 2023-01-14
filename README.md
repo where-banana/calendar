@@ -15,7 +15,7 @@
 ## Презентация проекта
 Доступна по [ссылке](https://github.com/where-banana/calendar/blob/main/presentation.pdf)
 
-## Скриншоты работы приложения
+## Скриншоты работающего приложения
 
 Главная панель со списком записей
 ![Главная панель](https://github.com/where-banana/calendar/blob/main/screenshots/1.png)
